@@ -22,7 +22,7 @@ Word2Vec  |  0.37 | 0.69 | 0.47 | 0.51
 
 ## Analysis
 Also, 3 different topics with big incidents are analyzed and the correlation between incidents and Twitter sentiments is seen by BERT model.
-1. Netflix
+### 1. Netflix
 
 Protests in Twitter after new Turkish series in Netflix with LGBT content.
 
@@ -36,7 +36,7 @@ Protests in Twitter after new Turkish series in Netflix with LGBT content.
 > Scores
 
 
-2. Cappy
+### 2. Cappy
 
 Two different incidents in Twitter about Cappy for unidentified objects in juice.
 
@@ -51,7 +51,7 @@ Two different incidents in Twitter about Cappy for unidentified objects in juice
 ![](https://live.staticflickr.com/65535/49770286768_504f0dbbd8_z.jpg)
 > Scores
 
-3. Berkcan Guven
+### 3. Berkcan Guven
 
 Some major critics about Berkcan Guven in Twitter after he released a video with underage celebrity. He removed the video after 7 hours with more than 700k views.
 
