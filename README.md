@@ -12,7 +12,7 @@ Sentiment Analysis in Turkish tweets is implemented with 3 different feature ext
  ## Dataset
  BOUN Twitter Data(2018) is used for this application. This dataset includes tweets about universities, mainly Bogazici University. There are 3 classes in this dataset: positive, neutral, and negative. It is also imbalanced dataset. Don't use this dataset in commercial applications.
  
- This dataset is gathered in CmpE 493 - 2018 Term in Bogazici University. Thanks to Abdullatif Koksal, Arda Celebi, Arzucan Ozgur, and students of CmpE 493 in 2018.
+ This dataset is gathered in CmpE 493 - 2018 Term in Bogazici University. Contributors: "Abdullatif Koksal, Arda Celebi, Arzucan Ozgur, and students of CmpE 493 in 2018"
  
  ## Notebooks
  Notebooks are self-explanatory. You can check out PyIstanbul Notebooks folder for 3 different feature extraction techniques.
