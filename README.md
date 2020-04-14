@@ -59,7 +59,7 @@ Two different incidents in Twitter about Cappy for unidentified objects in juice
 
 ### 3. Berkcan Guven
 
-Some major critics about Berkcan Guven in Twitter after he released a video with underage celebrity. He removed the video after 7 hours with more than 700k views.
+Some major critics about Berkcan Guven in Twitter after he released a video with underage celebrity. He removed the video after 7 hours which already had more than 700k views.
 
 ![](https://live.staticflickr.com/65535/49770287643_e18a1426e8_n.jpg)
 
