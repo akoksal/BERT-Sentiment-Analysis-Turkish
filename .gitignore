@@ -1,6 +1,7 @@
 BERT Finetune Model.ipynb
 Other Data/trmodel
 .DS_Store
+Finetuning BERT for Sentiment Analysis.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
