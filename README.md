@@ -17,6 +17,8 @@ Sentiment Analysis in Turkish tweets is implemented with 3 different feature ext
  ## Notebooks
  Notebooks are self-explanatory. You can check out PyIstanbul Notebooks folder for 3 different feature extraction techniques.
  
+ BERT Features with Keras notebook has custom loss, Dropout, and more controllable features with Keras which result better scores with 68% macro accuracy.
+ 
  ## Results
  Models  | Positive Accuracy | Neutral Accuracy | Negative Accuracy | Average Accuracy(Macro)
 ------------- | ------------- | ------------- | ------------- | -------------
