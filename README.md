@@ -6,6 +6,7 @@ Sentiment Analysis in Turkish tweets is implemented with 3 different feature ext
  - [BERTurk](https://github.com/stefan-it/turkish-bert)
  
  For more NLP content like this, please subscribe to my blog: https://akoksal.com/
+ And check out this post for detailed explanation: https://akoksal.com/articles/train-bert-for-turkish-sentiment-analysis
   
  ## Dataset
  BOUN Twitter Data(2018) is used for this application. This dataset includes tweets about universities, mainly Bogazici University. There are 3 classes in this dataset: positive, neutral, and negative. It is also imbalanced dataset. Don't use this dataset in commercial applications.
