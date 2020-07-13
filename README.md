@@ -11,6 +11,7 @@ Sentiment Analysis in Turkish tweets is implemented with 3 different feature ext
   
  ## Dataset
  **Due to license problems in Twitter datasets, I had to remove BOUN Twitter Data and collected tweets with TweetScraper. We can only share Tweet IDs for BOUN Twitter Data. [Download](https://drive.google.com/file/d/1jnIoobE2qHDO0FtveWjPIx2KSji35thI/view?usp=sharing)**
+ 
  I also shared dummy json data for BOUN Twitter Data and TweetScraper data to make the codes work. Please, **DO NOT** train your model and analyze with this data as it would fail.
  
  ## Notebooks
