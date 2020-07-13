@@ -10,7 +10,8 @@ Sentiment Analysis in Turkish tweets is implemented with 3 different feature ext
  And check out this post for detailed explanation and better models with Keras: https://akoksal.com/articles/understand-tweets-better-with-BERT-sentiment-analysis
   
  ## Dataset
- **Due to license problems in Twitter datasets, I had to remove BOUN Twitter Data and collected tweets with TweetScraper. Maybe, I can share the tweets with their corresponding IDs in the future.**
+ **Due to license problems in Twitter datasets, I had to remove BOUN Twitter Data and collected tweets with TweetScraper. We can only share Tweet IDs for BOUN Twitter Data. [Download](https://drive.google.com/file/d/1jnIoobE2qHDO0FtveWjPIx2KSji35thI/view?usp=sharing)**
+ I also shared dummy json data for BOUN Twitter Data and TweetScraper data to make the codes work. Please, **DO NOT** train your model and analyze with this data as it would fail.
  
  ## Notebooks
  Notebooks are self-explanatory. You can check out PyIstanbul Notebooks folder for 3 different feature extraction techniques.
