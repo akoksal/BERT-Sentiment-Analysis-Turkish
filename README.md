@@ -8,7 +8,10 @@ Sentiment Analysis in Turkish tweets is implemented with 3 different feature ext
  For more NLP content like this, please subscribe to my blog: https://akoksal.com/
  
  And check out this post for detailed explanation and better models with Keras: https://akoksal.com/articles/understand-tweets-better-with-BERT-sentiment-analysis
-  
+ 
+ Note that, transformers library 3.0.2 version is used in these notebooks. Please install this version of the library:
+ `pip install transformers==3.0.2`
+ 
  ## Dataset
  **Due to license problems in Twitter datasets, I had to remove BOUN Twitter Data and collected tweets with TweetScraper. I can share only Tweet IDs for BOUN Twitter Data. [Download](https://drive.google.com/file/d/1jnIoobE2qHDO0FtveWjPIx2KSji35thI/view?usp=sharing)**
  
