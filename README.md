@@ -71,3 +71,20 @@ Some major critics about Berkcan Guven in Twitter after he released a video with
 ![](https://live.staticflickr.com/65535/49771145192_346f0a916f_z.jpg)
 
 > Scores
+
+
+## Citation
+For SoTA and more detailed BERT-based models and the dataset, you can check out the [BounTi](https://github.com/boun-tabi/BounTi-Turkish-Sentiment-Analysis) repository.
+
+You can cite the following paper if you use our work:
+```
+@INPROCEEDINGS{BounTi,
+  author={Köksal, Abdullatif and Özgür, Arzucan},
+  booktitle={2021 29th Signal Processing and Communications Applications Conference (SIU)}, 
+  title={Twitter Dataset and Evaluation of Transformers for Turkish Sentiment Analysis}, 
+  year={2021},
+  volume={},
+  number={}
+  }
+```
+---
